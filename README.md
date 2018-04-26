@@ -50,3 +50,14 @@ http://deadsimplechat.com/pstat-134-234
 - Midterm will be April 30 during class. Material will cover readings and concepts from lecture notes. You will be able to use the computer to look up documentation, verify commands, etc. However, the exam will be done individually without communication with each other. What you hand-in will be on paper. Print outs will be provided. (As noted before, `git` topics will not be asked)
 
 - Assignment 2 will be posted later tonight.
+
+## April 25, 2018
+
+- Please plan to use lab computers for the midterm. DSP students accommodations will be finalized soon.
+
+- Evidation health data module: collecting your data is encouraged but not required. There will be a backup option.
+
+- Answering open-ended questions
+
+- Git setting update on Jupyterhub
+
