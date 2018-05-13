@@ -61,3 +61,10 @@ http://deadsimplechat.com/pstat-134-234
 
 - Git setting update on Jupyterhub
 
+## May 2, 2018
+
+- Assignment 3: due May 11 (Friday) at 10 pm
+
+- Reminder: open Fitbit App to sync your data
+
+- Restarting your Jupyter notebook server
