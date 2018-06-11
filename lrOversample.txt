@@ -1,0 +1,25 @@
+for numFeatures4096:
+TPR = 0.2
+FPR = 0.4
+TNR = 0.0
+FNR = 0.2
+for numFeatures16384:
+TPR = 0.2
+FPR = 0.4
+TNR = 0.0
+FNR = 0.2
+for numFeatures65536:
+TPR = 0.2
+FPR = 0.4
+TNR = 0.0
+FNR = 0.2
+for numFeatures262144:
+TPR = 0.2
+FPR = 0.4
+TNR = 0.0
+FNR = 0.2
+for numFeatures1048576:
+TPR = 0.2
+FPR = 0.4
+TNR = 0.0
+FNR = 0.2
