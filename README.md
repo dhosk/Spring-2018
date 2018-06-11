@@ -51,7 +51,10 @@ http://deadsimplechat.com/pstat-134-234
 
 - Assignment 2 will be posted later tonight.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/master
 
 ## April 25, 2018
 
@@ -63,6 +66,7 @@ http://deadsimplechat.com/pstat-134-234
 
 - Git setting update on Jupyterhub
 
+<<<<<<< HEAD
 ## May 2, 2018
 
 - Assignment 3: due May 11 (Friday) at 10 pm
@@ -128,3 +132,5 @@ http://deadsimplechat.com/pstat-134-234
   - What other questions you would like to tackle if you worked on the project in plain words
   - Thought experiment of what changes would be needed (data, methods, etc) and what you expect (or hope) to see
 >>>>>>> upstream/master
+=======
+>>>>>>> origin/master
